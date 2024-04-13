@@ -16,7 +16,7 @@
 //String display=stud.Display();//Paramterized Constructor
 //Console.Write(display);
 
-//Lets create Date class with day,month,year members
+//create Date class with day,month,year members
 //Use no parameter & paramterized constructor
 //Create object & display data
 
