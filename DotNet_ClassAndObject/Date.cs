@@ -12,6 +12,8 @@ namespace DotNet_ClassAndObject
         private int month;
         private int day;
 
+        public  int Year { get; set; }
+
         public Date()
         {
             year = 2024;
